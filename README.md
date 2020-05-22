@@ -1,1 +1,2 @@
-# ENG-RUS-LAT-Translate-in-Python
+# ENG/RUS/LAT Translate in Python
+# I made this translate in one of my python classes and I want to share it to other people because it could be very useful to people who have just started learning python.
